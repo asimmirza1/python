@@ -6,6 +6,7 @@ courses = {"CS1": "Introduction to Java",
              "Calc3": "Calculs III",
              "AI1": "Introduction to AI",
              "ML1": "Introduction to Machine learning",
+             "ML2": "Advance Machine Learning",
 }
 
 courseIndexMapping = {1: "CS1",
