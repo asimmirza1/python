@@ -41,6 +41,8 @@ def showAvailableCourses():
   print("!! Enter 0 to exit course selection menu\n")
 
 def dropACourse():
+  #this function has bugs,
+  #does not drop courses always.
   showRegisteredCourses()
   counter = 1
   while(True):
